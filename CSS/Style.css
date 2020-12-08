@@ -1,0 +1,79 @@
+body {
+    min-width: 375px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#color-Reservia{
+  color: #0065FC;
+}
+
+.colored-section{
+  background-color: white;
+}
+.btn-link{
+  text-decoration: none;
+}
+.btn-outline-success{
+  color: Black;
+  border-color: #0065FC;
+}
+.btn-outline-success:hover{
+  background-color: #0065FC;
+  border-color: #0065FC;
+}
+.title-one{
+  font-size:1.2rem ;
+}
+
+.navbar{
+  padding-left: 0;
+}
+/***filter***/
+.filter-selection{
+  margin-top: 20px
+}
+.filter-selection h5 {
+  display: inline;
+   margin-right: 20px;
+}
+.Filter-selection-category{
+  display: inline-block;
+  border-style: solid;
+  border-color: #F2F2F2;
+  border-radius: 15px;
+  margin: 0 10px;
+}
+.filter-selection a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    text-align: center;
+    border: solid 2px #F2F2F2;
+    border-left: none;
+    border-radius: 18px;
+
+}
+.filter-pic{
+  background-color: #DEEBFF;
+  border-radius: 27px;
+  color: #0065FC;
+  border: none;
+  position: relative;
+  right:8px;
+  width: 22.1%;
+  vertical-align: text-top;
+}
+
+.Filter-selection-category:hover{
+
+  background-color: #DEEBFF;
+}
+.ex{
+  padding: 10px;
+
+
+}
+.ex:hover{
+  text-decoration: none;
+}
